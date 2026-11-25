@@ -1,0 +1,12 @@
+{
+  "name": "railway-reservation-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Railway Reservation and Ticket Management System (Core Java)",
+  "scripts": {
+    "build": "echo 'Java project - use gradle to build'",
+    "lint": "echo 'No linting for Java in this environment'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

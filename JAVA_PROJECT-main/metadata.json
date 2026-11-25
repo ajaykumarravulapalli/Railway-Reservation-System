@@ -1,0 +1,6 @@
+{
+  "name": "Railway Reservation System",
+  "description": "A comprehensive desktop application built with Java Swing and JDBC for managing train tickets and reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
